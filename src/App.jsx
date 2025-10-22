@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import NavBar from "./components/NavBar";
+import NavBar from "./components/Navbar";
 import HeroSection from "./sections/HeroSection";
 import { ScrollSmoother, ScrollTrigger } from "gsap/all";
 import gsap from "gsap";
